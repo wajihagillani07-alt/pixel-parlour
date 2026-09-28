@@ -1,0 +1,62 @@
+[
+  {
+    "file": "computer.svg",
+    "name": "Computer",
+    "author": "Pixel Parlour"
+  },
+  {
+    "file": "bunny.svg",
+    "name": "Bunny",
+    "author": "Pixel Parlour"
+  },
+  {
+    "file": "music.svg",
+    "name": "Music",
+    "author": "Pixel Parlour"
+  },
+  {
+    "file": "folder.svg",
+    "name": "Folder",
+    "author": "Pixel Parlour"
+  },
+  {
+    "file": "game-console.svg",
+    "name": "Game console",
+    "author": "Pixel Parlour"
+  },
+  {
+    "file": "notebook.svg",
+    "name": "Notebook",
+    "author": "Pixel Parlour"
+  },
+  {
+    "file": "camera.svg",
+    "name": "Camera",
+    "author": "Pixel Parlour"
+  },
+  {
+    "file": "browser.svg",
+    "name": "Browser",
+    "author": "Pixel Parlour"
+  },
+  {
+    "file": "mail.svg",
+    "name": "Mail",
+    "author": "Pixel Parlour"
+  },
+  {
+    "file": "terminal.svg",
+    "name": "Terminal",
+    "author": "Pixel Parlour"
+  },
+  {
+    "file": "trash.svg",
+    "name": "Trash",
+    "author": "Pixel Parlour"
+  },
+  {
+    "file": "coffee.svg",
+    "name": "Coffee",
+    "author": "Pixel Parlour"
+  }
+]

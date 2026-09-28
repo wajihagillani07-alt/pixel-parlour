@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="512" height="512" shape-rendering="crispEdges">
+  <!-- Pixel Parlour icon template — 64×64 grid. Use ONLY these six colours:
+       #EAA4BE main · #F6EAB1 highlight · #B8CEAD green · #B3A0CF purple · #FAE6D8 soft white · #57435E outline
+       Delete this comment and the sample shapes, then draw your own. -->
+  <path d="M10 10H54V54H10Z" fill="#EAA4BE" stroke="#57435E" stroke-width="2"/>
+  <rect x="16" y="16" width="32" height="20" fill="#F6EAB1"/>
+  <rect x="16" y="42" width="8" height="6" fill="#B8CEAD"/>
+  <rect x="28" y="42" width="8" height="6" fill="#B3A0CF"/>
+  <rect x="40" y="42" width="8" height="6" fill="#FAE6D8"/>
+</svg>
